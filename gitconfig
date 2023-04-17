@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = artwligocki@gmail.com
+	name = Arthur Ligocki
